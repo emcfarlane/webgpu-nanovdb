@@ -1,3 +1,5 @@
+_See [PicoVDB](https://github.com/emcfarlane/picovdb) for WebGPU optimised format of NanoVDB._
+
 # WebGPU NanoVDB
 
 A WGSL shader library for accessing NanoVDB sparse volumetric data in WebGPU compute shaders.
@@ -38,7 +40,8 @@ fn main() {
 ## Related Projects
 
 - **[OpenVDB](https://github.com/AcademySoftwareFoundation/openvdb)** - Sparse volume data structure library
-- **[NanoVDB](https://developer.nvidia.com/nanovdb)** - GPU-optimized sparse volumes  
+- **[NanoVDB](https://developer.nvidia.com/nanovdb)** - GPU-optimized sparse volumes
+- **[PicoVDB](https://github.com/emcfarlane/picovdb)** - WebGPU native format for sparse volumes
 
 ## License
 
